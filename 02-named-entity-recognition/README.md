@@ -81,3 +81,30 @@ Precision, recall and F1 evaluation
 Dataset Availability
 
 The original practice dataset is not publicly included pending confirmation of redistribution permissions.
+NER Annotation Examples
+
+The following screenshots demonstrate my practical experience with Named Entity Recognition using Label Studio.
+
+The annotations include entity identification, text span selection, entity classification and boundary accuracy.
+
+Example 1: Named Entity Identification
+
+
+
+Example 2: Entity Classification
+
+
+
+Example 3: Text Span Annotation
+
+
+
+Skills Demonstrated
+
+Identifying named entities in unstructured text.
+
+Classifying PERSON, ORG, LOC, DATE and MONEY entities.
+
+Selecting accurate entity boundaries.
+
+Reviewing annotations for completeness and consistency.
