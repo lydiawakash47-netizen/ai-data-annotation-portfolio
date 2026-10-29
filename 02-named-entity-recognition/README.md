@@ -108,3 +108,19 @@ Classifying PERSON, ORG, LOC, DATE and MONEY entities.
 Selecting accurate entity boundaries.
 
 Reviewing annotations for completeness and consistency.
+## NER Annotation Examples
+
+The following screenshots demonstrate my practical Named Entity Recognition (NER) annotation work using Label Studio.
+
+### Example 1
+![NER Annotation Example 1](NER%20example%201.png)
+
+### Example 2
+![NER Annotation Example 2](NER%20example%202.png)
+
+### Example 3
+![NER Annotation Example 3](NER%20example%203.png)
+
+These examples demonstrate my experience in identifying and labeling named entities within text.
+
+
