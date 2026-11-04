@@ -122,5 +122,14 @@ The following screenshots demonstrate my practical Named Entity Recognition (NER
 ![NER Annotation Example 3](NER%20example%203.png)
 
 These examples demonstrate my experience in identifying and labeling named entities within text.
+## Quality Assurance
+
+I completed three guided NER QA exercises, achieving an overall training score of 88.2% (15/17).
+
+I also conducted a manual audit of 10 annotated tasks containing 37 named entities. All 37 annotations passed the review, achieving 100% observed accuracy within the reviewed sample.
+
+The audit evaluated entity classification, annotation boundaries, missing entities and label consistency. These findings apply to the reviewed sample, not the complete dataset.
+
+[View my NER Quality Assurance Report](QA-report.md)
 
 
