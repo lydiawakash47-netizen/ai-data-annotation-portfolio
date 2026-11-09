@@ -30,6 +30,33 @@ Essentials of Data Labelling & Annotation for AI Development — DataLens (2026)
 
 ## Portfolio Goal
 To demonstrate practical annotation skills through documented projects, quality assessments, and permitted sample datasets.
+## Module 3: Text Classification
+
+**Status:** Completed
+
+### Project Overview
+Practiced text classification and annotation using structured datasets.
+
+### Skills Demonstrated
+- Text classification
+- Sentiment analysis
+- Annotation quality checking
+- Dataset organization
+
+**Project Folder:** [Text Classification](03-text-classification)
+
+## Module 4: Annotation Quality Assurance
+
+**Status:** Completed
+
+### Project Overview
+Practiced reviewing annotated datasets for labeling accuracy, consistency, and potential errors.
+
+### Skills Demonstrated
+- Annotation quality assurance
+- Error identification
+- Label consistency checking
+- Dataset review and documentation
 ## Module 5: AI Response Evaluation & Quality Assurance
 
 **Status:** Completed  
